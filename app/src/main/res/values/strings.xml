@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MatchDay</string>
+    <string name="title_activity_onboarding">OnboardingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="skip">Skip</string>
+    <string name="create">Create professional sport cards on different occasions</string>
+    <string name="share">Share the card with your friends or fans via social networks</string>
+    <string name="onbarding">Let everybody know about the upcoming football event</string>
+    <string name="enter">ENTER</string>
+    <string name="gallery">OPEN GALLERY</string>
+    <string name="take_photo">TAKE A PHOTO</string>
+    <string name="cancel">Cancel</string>
+    <string name="cards">CARDS</string>
+    <string name="next">Next</string>
+    <string name="match">MATCH OF THE DAY</string>
+    <string name="effects">EFFECTS</string>
+    <string name="edit">EDIT</string>
+
+    <string name="error_connection">Нет подключения к интернету</string>
+    <string name="back">Back</string>
+    <string name="try_again">Try again</string>
+
+</resources>
